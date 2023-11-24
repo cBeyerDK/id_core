@@ -26,5 +26,5 @@ Kør alle `.sql` filer på serverens database, der ligger under `SQL` mappen.
 # Support
 Der er ingen support at hente. Scriptet står som det er.
 
-Scriptet er beskyttet under GNU General Public License v3.0
+Scriptet er beskyttet under GNU General Public License v3.0 <br />
 Scriptet er skrevet og udgivet af **cBeyer** som er med ejer af Identity Store
